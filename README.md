@@ -15,7 +15,7 @@ A eCommerce Website Developed by atkhssn and our team
 [Contributors (atkhssn's team)](http://blog.atikhassan.ml)
 
 
-# !!!!! Email & Password !!!!!
+# Email & Password
 
 john@doe.com / secret (role:superadmin)
 
