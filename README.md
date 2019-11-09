@@ -1,8 +1,7 @@
 # E-Commerce
 
-A eCommerce Website Developed by atkhssn and our team
+A complete e Commerce Website Developed by atkhssn and our team.
 
-- See full documentation
 
 # Setup
 * `php artisan migrate --seed`
@@ -17,11 +16,11 @@ A eCommerce Website Developed by atkhssn and our team
 
 # Email & Password
 
-john@doe.com / secret (role:superadmin)
+>> john@doe.com / secret (role:superadmin)
 
-admin@doe.com / secret (role:admin)
+>> admin@doe.com / secret (role:admin)
 
-clerk@doe.com / secret (role:user)
+>> clerk@doe.com / secret (role:user)
 
 
 ## License
