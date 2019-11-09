@@ -1,15 +1,7 @@
-[![Build Status](https://travis-ci.org/Laracommerce/laracom.svg?branch=master)](https://travis-ci.org/Laracommerce/laracom)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Laracommerce/laracom/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Laracommerce/laracom/?branch=master)
-[![Code Intelligence Status](https://scrutinizer-ci.com/g/Laracommerce/laracom/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
-[![Test Coverage](https://img.shields.io/codecov/c/github/Laracommerce/laracom/master.svg)](https://codecov.io/github/Laracommerce/laracom?branch=master)
-[![Fork Status](https://img.shields.io/github/forks/Laracommerce/laracom.svg)](https://github.com/Laracommerce/laracom)
-[![Star Status](https://img.shields.io/github/stars/Laracommerce/laracom.svg)](https://github.com/Laracommerce/laracom)
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/larac0m/Lobby)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLaracommerce%2Flaracom.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FLaracommerce%2Flaracom?ref=badge_shield)
+E-Commerce
+A eCommerce Website Developed by atkhssn and our team
 
-# Laravel FREE E-Commerce Software
-
-- See full [documentation](https://shop.laracom.net/docs)
+- See full documentation
 
 # Setup
 * `php artisan migrate --seed`
@@ -17,13 +9,24 @@
 * `php artisan storage:link`
 
 # Contributors
-[Jeff Simons Decena](https://jsdecena.me) - Author
+[Jeff Simons Decena](http://atikhassan.ml) - Author
 
-[Contributors](https://github.com/Laracommerce/laracom/graphs/contributors)
+[Contributors (atkhssn's team)](http://blog.atikhassan.ml)
 
-# Get discount on Digital Ocean
-Sign-up with [Digital Ocean and get $10 discount](https://m.do.co/c/bce94237de96)!
+
+!!!!! Email & Password !!!!!
+
+john@doe.com / secret (role:superadmin)
+admin@doe.com / secret (role:admin)
+clerk@doe.com / secret (role:user)
 
 
 ## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLaracommerce%2Flaracom.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FLaracommerce%2Flaracom?ref=badge_large)
+It's illigale to use any commercial pirpose.
+It has MIT License.
+Use it Educational purpose.
+
+### Thanks ###
+
+Phone: +8809638884183
+Email: atkhssn@atikhassan.ml
