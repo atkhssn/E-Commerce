@@ -29,7 +29,7 @@ It's illigale to use any commercial pirpose.
 It has MIT License.
 Use it Educational purpose.
 
-### Thanks ###
 
 Phone: +8809638884183
+
 Email: atkhssn@atikhassan.ml
