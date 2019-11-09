@@ -9,7 +9,7 @@ A eCommerce Website Developed by atkhssn and our team
 * `php artisan storage:link`
 
 # Contributors
-[Jeff Simons Decena](http://atikhassan.ml) - Author
+[Atik Hassan](http://atikhassan.ml) - Author
 
 [Contributors (atkhssn's team)](http://blog.atikhassan.ml)
 
