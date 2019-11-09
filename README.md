@@ -25,9 +25,13 @@ clerk@doe.com / secret (role:user)
 
 
 ## License
-It's illigale to use any commercial pirpose.
-It has MIT License.
-Use it Educational purpose.
+1. It's illigale to use any commercial pirpose.
+
+2. It has MIT License.
+
+3. Use it Educational purpose.
+
+
 
 
 Phone: +8809638884183
