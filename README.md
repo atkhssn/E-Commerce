@@ -1,4 +1,5 @@
-E-Commerce
+# E-Commerce
+
 A eCommerce Website Developed by atkhssn and our team
 
 - See full documentation
@@ -14,10 +15,12 @@ A eCommerce Website Developed by atkhssn and our team
 [Contributors (atkhssn's team)](http://blog.atikhassan.ml)
 
 
-!!!!! Email & Password !!!!!
+# !!!!! Email & Password !!!!!
 
 john@doe.com / secret (role:superadmin)
+
 admin@doe.com / secret (role:admin)
+
 clerk@doe.com / secret (role:user)
 
 
